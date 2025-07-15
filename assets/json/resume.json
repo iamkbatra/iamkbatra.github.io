@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kamal Batra",
+    "label": "Computational Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kamalbatra111@gmail.com",
+    "phone": "+49 15908448448",
+    "url": "https://iamkbatra.github.io/",
+    "summary": "An Indian-born computational chemist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Äußere Sulzbacher Straße",
+      "postalCode": "90491",
+      "city": "Nürnberg",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "iamkbatra",
+        "url": "https://x.com/iamkbatra"
       }
     ]
   },
