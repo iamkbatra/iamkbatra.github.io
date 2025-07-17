@@ -5,14 +5,8 @@ repo_description_lines_max: 2
 
 github_repos:
   - iamkbatra.github.io 
-    Welcome to my homepage
   - Jupyter 
-    Jupyter Notebook Projects 
   - CompChem
-    Computational Chemistry Database 
   - Python
-    Python for Everybody Coursera
   - SQL 
-    SQL for Data Science Coursera
   - R 
-    R Programming Coursera
