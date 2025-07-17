@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - iamkbatra.github.io 
-  - Jupyter 
-  - CompChem
-  - Python
-  - SQL 
-  - R 
+  - iamkbatra/iamkbatra.github.io 
+  - iamkbatra/Jupyter 
+  - iamkbatra/CompChem
+  - iamkbatra/Python
+  - iamkbatra/SQL 
+  - iamkbatra/R 
