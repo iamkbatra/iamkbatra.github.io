@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Kamal Batra, PhD",
-    "labels": "Scientist, Engineer, Consultant",
+    "label": "Scientist",
     "location": "Nürnberg, Germany",
     "nationality": "Indian",
-    "image": "https://github.com/iamkbatra/iamkbatra.github.io/blob/main/assets/img/iamkbatra.png?raw=true",
     "email": "kamalbatra111@gmail.com",
-    "phone": "+49 15908448448",
+    "phone": "(+49) 15908448448",
     "url": "https://iamkbatra.github.io/"
   },
   "work": [
