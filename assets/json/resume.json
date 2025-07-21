@@ -1,5 +1,5 @@
 {
-  "general": {
+  "basics": {
     "name": "Kamal Batra, PhD",
     "label": "Scientist, Engineer, Consultant",
     "email": "kamalbatra111@gmail.com",
@@ -17,14 +17,14 @@
     {
       "name": "Centre National de la Recherche Scientifique (CNRS)",
       "location": "Montpellier, France",
-      "position": "Research Scientist (Postdoctoral)",
+      "position": "Research Scientist",
       "startDate": "2021",
       "endDate": "2022"
     },
     {
       "name": "Technische Universität (TU) Dresden",
       "location": "Dresden, Germany",
-      "position": "Scientific Researcher (Doctoral)",
+      "position": "Scientific Researcher",
       "startDate": "2017",
       "endDate": "2021"
     }
