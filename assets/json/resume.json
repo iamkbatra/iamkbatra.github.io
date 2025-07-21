@@ -1,18 +1,18 @@
 {
-  "general information": {
+  "generalInformation": {
     "name": "Kamal Batra, PhD",
     "label": "Scientist, Engineer, Consultant",
     "email": "kamalbatra111@gmail.com",
     "phone": "+49 15908448448",
     "url": "https://iamkbatra.github.io/"
   },
-  "work experience": [
+  "workExperience": [
     {
       "name": "inuTech GmbH, Solution Partner CADFEFM Group",
       "location": "Nürnberg, Germany",
       "position": "R&D Engineer",
       "startDate": "2023",
-      "endDate": "now"
+      "endDate": "present"
     },
     {
       "name": "Centre National de la Recherche Scientifique (CNRS)",
