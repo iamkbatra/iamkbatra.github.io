@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Kamal Batra",
+    "name": "Kamal Batra, PhD",
     "label": "Computational Scientist",
-    "image": "",
+    "image": "https://github.com/iamkbatra/iamkbatra.github.io/blob/main/assets/img/iamkbatra.png",
     "email": "kamalbatra111@gmail.com",
     "phone": "+49 15908448448",
     "url": "https://iamkbatra.github.io/",
@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "X",
         "username": "iamkbatra",
         "url": "https://x.com/iamkbatra"
       }
@@ -24,31 +24,31 @@
   },
   "work": [
     {
-      "organization": "inuTech GmbH, Solution Partner CADFEFM Group",
+      "name": "inuTech GmbH, Solution Partner CADFEFM Group",
       "location": "Nürnberg, Germany",
       "position": "R&D Engineer",
       "url": "https://www.cadfemgroup.com/inutech",
       "startDate": "2023",
-      "endDate": "Present",
-      "summary": "...",
-      "highlights": [".."]
-    }
-  ],
-  "work": [
-    {
-      "organization": "Centre National de la Recherche Scientifique (CNRS)",
-      "location": "Montpellier, France",
-      "position": "Post-Doctoral Researcher",
-      "url": "https://www.cnrs.fr/en",
-      "startDate": "2021",
-      "endDate": "2023",
+      "endDate": "Current",
       "summary": "...",
       "highlights": ["..."]
     }
   ],
   "work": [
     {
-      "organization": "Technische Universität Dresden (TU Dresden)",
+      "name": "Centre National de la Recherche Scientifique",
+      "location": "Montpellier, France",
+      "position": "Research Scientist",
+      "url": "https://www.cnrs.fr/en",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "...",
+      "highlights": ["..."]
+    }
+  ],
+  "work": [
+    {
+      "name": "Technische Universität Dresden",
       "location": "Dresden, Germany",
       "position": "Doctoral Researcher",
       "url": "https://tu-dresden.de/",
@@ -60,14 +60,25 @@
   ],
   "education": [
     {
-      "institution": "Technische Universität Dresden (TU Dresden)",
+      "institution": "Technische Universität Dresden",
       "location": "Dresden, Germany",
       "url": "https://tu-dresden.de/",
       "area": "Computational Chemistry",
       "studyType": "PhD",
       "startDate": "2017",
       "endDate": "2021",
-      "score": "10",
+      "courses": ["..."]
+    }
+  ],
+ "education": [
+    {
+      "institution": "Indian Institute of Technology Kharagpur,",
+      "location": "Kharagpur, India",
+      "url": "https://www.iitkgp.ac.in/",
+      "area": "Chemistry",
+      "studyType": "BS-MS",
+      "startDate": "2010",
+      "endDate": "2015",
       "courses": ["..."]
     }
   ],
