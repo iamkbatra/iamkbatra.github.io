@@ -1,23 +1,18 @@
 {
-  "basics": {
+  "general information": {
     "name": "Kamal Batra, PhD",
     "label": "Scientist, Engineer, Consultant",
-    "image": "https://github.com/iamkbatra/iamkbatra.github.io/blob/main/assets/img/iamkbatra.png?raw=true",
     "email": "kamalbatra111@gmail.com",
     "phone": "+49 15908448448",
-    "url": "https://iamkbatra.github.io/",
-    "location": {
-      "city": "Nürnberg",
-      "country": "Germany"
-    }
+    "url": "https://iamkbatra.github.io/"
   },
-  "work": [
+  "work experience": [
     {
       "name": "inuTech GmbH, Solution Partner CADFEFM Group",
       "location": "Nürnberg, Germany",
       "position": "R&D Engineer",
       "startDate": "2023",
-      "endDate": "Present"
+      "endDate": "now"
     },
     {
       "name": "Centre National de la Recherche Scientifique (CNRS)",
@@ -38,52 +33,23 @@
     {
       "institution": "Technische Universität (TU) Dresden",
       "location": "Dresden, Germany",
-      "area": "Computational Chemistry",
-      "studyType": "Doctor of Natural Sciences",
+      "studyType": "Doctor of Natural Sciences, Computational Chemistry",
       "startDate": "2017",
       "endDate": "2021"
     },
     {
       "institution": "Karlsruhe Institute of Technology (KIT)",
       "location": "Karlsruhe, Germany",
-      "area": "Materials Chemistry",
-      "studyType": "Visiting Student Research Assignment",
+      "studyType": "Visiting Student Research Assignment, Materials Chemistry",
       "startDate": "2014",
       "endDate": "2015"
     },
     {
       "institution": "Indian Institute of Technology (IIT) Kharagpur",
       "location": "Kharagpur, India",
-      "area": "Chemistry",
-      "studyType": "Bachelor of Science and Master of Science",
+      "studyType": "Bachelor of Science and Master of Science, Chemistry",
       "startDate": "2010",
       "endDate": "2015"
     }
-  ],
-  "languages": [
-    {
-      "language": "Hindi",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "German",
-      "fluency": "Basic"
-    },
-    {
-      "language": "French",
-      "fluency": "Basic"
-    }
-  ],
-  "skills": [],
-  "projects": [],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
-  "volunteer": [],
-  "interests": [],
-  "references": []
+  ]
 }
