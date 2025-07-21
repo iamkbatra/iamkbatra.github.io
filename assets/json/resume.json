@@ -9,9 +9,7 @@
     "location": {
       "city": "Nürnberg",
       "country": "Germany"
-    },
-    "summary": "",
-    "profiles": []
+    }
   },
   "work": [
     {
@@ -19,7 +17,7 @@
       "location": "Nürnberg, Germany",
       "position": "R&D Engineer",
       "startDate": "2023",
-      "endDate": "Present",
+      "endDate": "Present"
     },
     {
       "name": "Centre National de la Recherche Scientifique (CNRS)",
