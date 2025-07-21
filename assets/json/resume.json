@@ -3,11 +3,11 @@
     "name": "Kamal Batra, PhD",
     "labels": "Scientist, Engineer, Consultant",
     "location": "Nürnberg, Germany",
-    "Nationality": "Indian",
-    "image": "https://github.com/iamkbatra/iamkbatra.github.io/blob/main/assets/img/iamkbatra.png",
+    "nationality": "Indian",
+    "image": "https://github.com/iamkbatra/iamkbatra.github.io/blob/main/assets/img/iamkbatra.png?raw=true",
     "email": "kamalbatra111@gmail.com",
     "phone": "+49 15908448448",
-    "url": "https://iamkbatra.github.io/",
+    "url": "https://iamkbatra.github.io/"
   },
   "work": [
     {
@@ -15,21 +15,21 @@
       "location": "Nürnberg, Germany",
       "position": "R&D Engineer",
       "startDate": "2023",
-      "endDate": "Current",
+      "endDate": "Present"
     },
     {
       "name": "Centre National de la Recherche Scientifique",
       "location": "Montpellier, France",
       "position": "Research Scientist (Postdoctoral)",
       "startDate": "2021",
-      "endDate": "2022",
+      "endDate": "2022"
     },
     {
       "name": "Technische Universität (TU) Dresden, Germany",
       "location": "Dresden, Germany",
       "position": "Scientific Researcher (Doctoral)",
       "startDate": "2017",
-      "endDate": "2021",
+      "endDate": "2021"
     }
   ],
   "education": [
@@ -38,38 +38,35 @@
       "location": "Dresden, Germany",
       "studyType": "Doctor of Natural Sciences (Dr. rer. nat.)",
       "startDate": "2017",
-      "endDate": "2021",
+      "endDate": "2021"
     },
     {
       "institution": "Karlsruhe Institute of Technology (KIT), Germany",
       "location": "Karlsruhe, Germany",
       "studyType": "Visiting Student Research Assignment",
       "startDate": "2014",
-      "endDate": "2015",
+      "endDate": "2015"
     },
     {
       "institution": "Indian Institute of Technology (IIT) Kharagpur, India",
       "location": "Kharagpur, India",
       "studyType": "Bachelor of Science and Master of Science (BS-MS)",
       "startDate": "2010",
-      "endDate": "2015",
+      "endDate": "2015"
     }
   ],
   "languages": [
     {
       "language": "Hindi",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent"
     },
     {
       "language": "German",
-      "fluency": "Basic",
-      "icon": ""
+      "fluency": "Basic"
     }
   ]
 }
