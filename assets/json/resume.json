@@ -1,12 +1,12 @@
 {
-  "generalInformation": {
+  "general": {
     "name": "Kamal Batra, PhD",
     "label": "Scientist, Engineer, Consultant",
     "email": "kamalbatra111@gmail.com",
     "phone": "+49 15908448448",
     "url": "https://iamkbatra.github.io/"
   },
-  "workExperience": [
+  "work": [
     {
       "name": "inuTech GmbH, Solution Partner CADFEFM Group",
       "location": "Nürnberg, Germany",
