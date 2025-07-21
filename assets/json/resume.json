@@ -1,12 +1,17 @@
 {
   "basics": {
     "name": "Kamal Batra, PhD",
-    "label": "Scientist",
-    "location": "Nürnberg, Germany",
-    "nationality": "Indian",
+    "label": "Scientist, Engineer, Consultant",
+    "image": "https://github.com/iamkbatra/iamkbatra.github.io/blob/main/assets/img/iamkbatra.png?raw=true",
     "email": "kamalbatra111@gmail.com",
-    "phone": "(+49) 15908448448",
-    "url": "https://iamkbatra.github.io/"
+    "phone": "+49 15908448448",
+    "url": "https://iamkbatra.github.io/",
+    "location": {
+      "city": "Nürnberg",
+      "country": "Germany"
+    },
+    "summary": "",
+    "profiles": []
   },
   "work": [
     {
@@ -14,17 +19,17 @@
       "location": "Nürnberg, Germany",
       "position": "R&D Engineer",
       "startDate": "2023",
-      "endDate": "Present"
+      "endDate": "Present",
     },
     {
-      "name": "Centre National de la Recherche Scientifique",
+      "name": "Centre National de la Recherche Scientifique (CNRS)",
       "location": "Montpellier, France",
       "position": "Research Scientist (Postdoctoral)",
       "startDate": "2021",
       "endDate": "2022"
     },
     {
-      "name": "Technische Universität (TU) Dresden, Germany",
+      "name": "Technische Universität (TU) Dresden",
       "location": "Dresden, Germany",
       "position": "Scientific Researcher (Doctoral)",
       "startDate": "2017",
@@ -33,23 +38,26 @@
   ],
   "education": [
     {
-      "institution": "Technische Universität (TU) Dresden, Germany",
+      "institution": "Technische Universität (TU) Dresden",
       "location": "Dresden, Germany",
-      "studyType": "Doctor of Natural Sciences (Dr. rer. nat.)",
+      "area": "Computational Chemistry",
+      "studyType": "Doctor of Natural Sciences",
       "startDate": "2017",
       "endDate": "2021"
     },
     {
-      "institution": "Karlsruhe Institute of Technology (KIT), Germany",
+      "institution": "Karlsruhe Institute of Technology (KIT)",
       "location": "Karlsruhe, Germany",
+      "area": "Materials Chemistry",
       "studyType": "Visiting Student Research Assignment",
       "startDate": "2014",
       "endDate": "2015"
     },
     {
-      "institution": "Indian Institute of Technology (IIT) Kharagpur, India",
+      "institution": "Indian Institute of Technology (IIT) Kharagpur",
       "location": "Kharagpur, India",
-      "studyType": "Bachelor of Science and Master of Science (BS-MS)",
+      "area": "Chemistry",
+      "studyType": "Bachelor of Science and Master of Science",
       "startDate": "2010",
       "endDate": "2015"
     }
@@ -66,6 +74,18 @@
     {
       "language": "German",
       "fluency": "Basic"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
-  ]
+  ],
+  "skills": [],
+  "projects": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "volunteer": [],
+  "interests": [],
+  "references": []
 }
